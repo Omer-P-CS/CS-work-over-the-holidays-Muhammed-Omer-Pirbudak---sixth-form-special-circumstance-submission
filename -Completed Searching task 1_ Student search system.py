@@ -1,5 +1,5 @@
 #Task: develop a manual linear-search algorithm with student list, search through list one at a time and compare with user's input then display the student's name and index
-#Muhammed Omer Pirbudak (proof to LAET about work over the holidays) 
+#Muhammed Omer Pirbudak (proof to LAET about work over the holidays) Applicaa code U-CU2XY
 students = ["Ali", "Sarah", "John", "Emma", "David", "Hassan", "Zara"]
 
 for i in range(len(students)):
