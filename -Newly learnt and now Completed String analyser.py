@@ -1,5 +1,5 @@
 #String analyser.py - Muhammed Omer Pirbudak (proof to LAET about work over the holidays) 
-#Underneath each part / block of code I will list attempts and if any were helped from chat GPT (or things I remembered on last attempt that weren't GPT assisted)
+#Underneath each part / block of code I will list attempts and if any were helped from chat GPT (or things I remembered on last attempt that weren't GPT assisted) - Applicaa code U-CU2XY
 printSample = input("Enter a sentence: ")
 
 print(printSample.upper()) #user input in capitals
