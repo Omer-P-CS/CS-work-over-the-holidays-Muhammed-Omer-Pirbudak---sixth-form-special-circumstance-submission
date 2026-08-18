@@ -1,5 +1,5 @@
 #Function Student Calculator - Muhammed Omer Pirbudak (proof to LAET of work over the holidays) 
-
+#Applicaa code U-CU2XY
 
 # this function returns two inputted parameters as total of each other 
 def calculate_total(grade1, grade2):
