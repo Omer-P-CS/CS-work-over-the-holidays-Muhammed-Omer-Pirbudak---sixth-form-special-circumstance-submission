@@ -1,3 +1,5 @@
+#Student File Manager - Muhammed Omer Pirbudak - Applicaa code U-CU2XY
+
 with open("students.txt", "w") as file: #learnt that as "file" makes "file" be the variable that represents the file
     file.write("Ali\n")  # \n prepares a new line (after the name here) for other student names
     file.write("Sarah\n")
