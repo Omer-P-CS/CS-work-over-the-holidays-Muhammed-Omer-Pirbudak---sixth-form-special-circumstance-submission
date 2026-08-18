@@ -1,5 +1,5 @@
 #Aim : To be able to use append(), remove(), for loops, range(), len(), and make and use flag variables (Only True/False examples)
-#Muhammed Omer Pirbudak (proof to LAET about work over the holidays) 
+#Muhammed Omer Pirbudak (proof to LAET about work over the holidays) Applicaa code U-CU2XY
 
 students = ["Ali", "Sarah", "John", "Emma", "David"]
 
