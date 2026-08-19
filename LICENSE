@@ -3,17 +3,28 @@ Custom No-Derivatives License
 Copyright (C) 2026 Muhammed Omer Pirbudak. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to view,
-run, and redistribute verbatim (unaltered) copies of the Software, subject to 
-the following conditions:
+of this Software and associated documentation files (the "Software"), to view
+and run the Software, and to redistribute unmodified copies of the Software,
+subject to the following conditions:
 
-Notwithstanding the restrictions below, you are granted permission to view and 
-fork this repository solely within the GitHub platform as permitted by the 
-GitHub Terms of Service.
+1. NO MODIFICATION OR DERIVATIVE WORKS
+The Software may not be modified, adapted, translated, combined with other
+software, or used to create derivative works without prior written permission
+from the copyright holder.
 
-1. ALTERATIONS PROHIBITED: You may not modify, blend, adapt, or create 
-   derivative works based upon the Software.
-2. ATTRIBUTION: The above copyright notice and this permission notice shall be 
-   included in all copies or substantial portions of the Software.
+2. REDISTRIBUTION
+Unmodified copies of the Software may be redistributed provided that this
+copyright notice and these license terms are included in all copies or
+substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+3. GITHUB FORKING
+Permission is granted to fork this repository within GitHub for the purposes
+of viewing, studying, and running the Software, subject to these license terms.
+A GitHub fork does not grant permission to modify or redistribute modified
+versions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Copyright (C) 2026 Muhammed Omer Pirbudak. All rights reserved.
