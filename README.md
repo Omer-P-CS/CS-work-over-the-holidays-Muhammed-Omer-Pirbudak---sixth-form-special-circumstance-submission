@@ -1,6 +1,6 @@
-#Computer Science over the holiday work
+# Computer Science over the holiday work
 
-Repository documenting my Edexcel GCSE Computer Science progression and independent work to address knowledge gaps from areas of the course I had not previously covered (due to injury).
+Repository documenting my Edexcel GCSE Computer Science progression and independent work to address knowledge gaps from areas of the course I had not previously covered - I am addressing knowledge gaps resulting from previous absences supporting evidence regarding these circumstances will be provided to admissions.
 
 Some tasks reinforce topics I had previously studied, while others cover topics that were new to me. They are organised under the headings "Completed" and "Newly Learnt" to show my progression.
 
