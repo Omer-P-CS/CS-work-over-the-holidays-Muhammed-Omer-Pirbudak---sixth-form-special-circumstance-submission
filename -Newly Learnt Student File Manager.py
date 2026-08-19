@@ -16,7 +16,7 @@ print("Students currently stored:")
 print(studentList) #gives current list
 #1 attempt
 
-newStudent = input("Enter a new student: ")
+newStudent = input("Enter a new student: ").capitalize()
 #1 attempt
 
 with open("students.txt", "a") as file: #append mode allows to add the inputted value in newStudent to be added to the file
