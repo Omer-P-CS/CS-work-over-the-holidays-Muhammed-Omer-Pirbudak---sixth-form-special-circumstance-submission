@@ -14,7 +14,7 @@ print("Updated students:")
 print(students)
 
 # Remove a student from the array 'students'
-removeStudent = input("Enter a student to remove(do capitalise the first letter): ")
+removeStudent = input("Enter a student to removed: ").capitalize()
 
 found = False  #this is a flag variable --- this is what gets checked to see if a conditon (in the further local scope) is met then action is taken accoridng to that
 
